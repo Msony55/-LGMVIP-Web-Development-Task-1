@@ -1,2 +1,2 @@
-# LGMVIP-Web-Development-Task-1
+# LGMVIP-Web-Development
 Single Page Web Application
