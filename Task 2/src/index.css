@@ -8,5 +8,10 @@ body {
   margin: 0;
   padding: 0;
   background: linear-gradient(89deg, #ffff 0%, #ffff 100%);
-
+}
+.pagination {
+  display: flex;
+  padding-left: 0;
+  list-style: none;
+  justify-content: center;
 }
