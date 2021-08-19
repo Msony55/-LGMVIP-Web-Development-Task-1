@@ -1,6 +1,6 @@
 # LGMVIP-Web-Development
 
-LGM VIRTUAL INTERNSHIP PROGRAM 2021 in which i have two project/task. I have done this internship by [let's GrowMore](https://letsgrowmore.in/opportunities/).
+LGM VIRTUAL INTERNSHIP PROGRAM 2021 in which i have done two project/task. I have done this internship by [let's GrowMore](https://letsgrowmore.in/opportunities/).
 <ol>
     <li>In first task i have to make html, css and JS website.</li>
     <li>In Second task i have to make React JS page in which i have to fetch backend data. The api is provided by GrowMore</li>
