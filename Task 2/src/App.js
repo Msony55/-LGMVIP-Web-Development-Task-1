@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Loader from "./components/loader";
 import ReactPaginate from "react-paginate";
 import axios from "axios";
+import './index.css';
 
 const App = () => {
   const [users, setUser] = useState([]);
