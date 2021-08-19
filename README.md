@@ -1,6 +1,10 @@
 # LGMVIP-Web-Development
 
-This app is a Real-time chat application built using Angular (Latest). that sends and shows messages to a recipient instantly without any page refresh. Server-side is written in NodeJS and Mongo DB. . For Angular side, we will use Socket.io client. Socket.io client is a real-time application framework for client-side.
+LGM VIRTUAL INTERNSHIP PROGRAM 2021 in which i have two project/task. I have done this internship by [let's GrowMore](https://letsgrowmore.in/opportunities/).
+<ol>
+    <li>In first task i have to make html, css and JS website.</li>
+    <li>In Second task i have to make React JS page in which i have to fetch backend data. The api is provided by GrowMore</li>
+</ol>
 
 Task 1 Link Deployment : [https://lgmvip-web-development.vercel.app/](https://lgmvip-web-development.vercel.app/) .
 
